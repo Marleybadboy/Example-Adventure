@@ -1,0 +1,44 @@
+{
+    "_SaveEnemyDataBase": [
+        {
+            "_EnemyData": {
+                "Name": "",
+                "Description": null,
+                "Damage": 4.338017,
+                "Speed": 0.1799775,
+                "_EnemyPrefabName": "Skeleton_shield",
+                "_EnemyAttackType": null
+            },
+            "_EnemyAttack": {
+                "$type": "HCC.GameObjects.Enemy.MaleeAttack",
+                "$id": "3"
+            }
+        },
+        {
+            "_EnemyData": {
+                "Name": "",
+                "Description": null,
+                "Damage": 1.216589,
+                "Speed": 2.225539,
+                "_EnemyPrefabName": "Skeleton",
+                "_EnemyAttackType": null
+            },
+            "_EnemyAttack": {
+                "$ref": "3"
+            }
+        },
+        {
+            "_EnemyData": {
+                "Name": "",
+                "Description": null,
+                "Damage": 2.516122,
+                "Speed": 0.6188179,
+                "_EnemyPrefabName": "Bandit_1",
+                "_EnemyAttackType": null
+            },
+            "_EnemyAttack": {
+                "$ref": "3"
+            }
+        }
+    ]
+}_*.data
