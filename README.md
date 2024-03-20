@@ -35,6 +35,10 @@ Editable elements in opponents:
 > There is a default opponent in the game that cannot be removed
 
 ### Save System
-The game uses a simple system of saving gameplay. We can save the gameplay at any time in the pause menu. The gameplay save is in json format and is located in persistentDataPath.
+The game uses a simple system of saving gameplay. We can save the gameplay at any time in the pause menu. The gameplay save is in `json` format and is located in `persistentDataPath`.
 
-Note that a player can have one save in total. And it holds health and ammunition data also it should be used with caution such fromsoftwer solution.
+<p align="center">
+  <img src="Visual_Readme/Screenshot 2024-03-20 21-40-08.png" alt="Pause" width="300"/>
+</p>
+
+Note that a player can have one save in total. And it holds health and ammunition data also it should be used with caution such fromsoftwer solution. :superhero::bone:
