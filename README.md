@@ -15,3 +15,13 @@ This also makes it easier to add more arenas which are selected randomly.
   <img src="Visual_Readme/Screenshot 2024-03-20 20-52-19.png" alt="Main Menu" width="300"/>
   <img src="Visual_Readme/Screenshot 2024-03-20 20-53-11.png" alt="Arena Example" width="300"/>
 </p>
+
+
+### :zombie: Enemy Editor 
+A special editor for creating opponents. The editor uses ScriptableObjects as a database and reads stored values and restores previously created opponents. 
+
+Editable elements in opponents:
+1. strength
+2. speed
+3. skin selection
+4. type of attack - uses the `IEnemyAttack`  interface which allows for easy implementation of attack types of the attractor 
