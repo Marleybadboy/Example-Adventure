@@ -42,3 +42,10 @@ The game uses a simple system of saving gameplay. We can save the gameplay at an
 </p>
 
 Note that a player can have one save in total. And it holds health and ammunition data also it should be used with caution such fromsoftwer solution. :superhero::bone:
+
+## Summary
+Moreover, the game uses various design patterns such as object pooling, state machine, observer, facade and more
+
+The project is open source. Prepared for a skilled designer who can use the generated tools freely 
+
+Of course, you can play the built version at this link: [Example Adventure](https://drive.google.com/file/d/10sv-WuzmfAuNXQx5tBqIm395K75elu31/view?usp=sharing)
