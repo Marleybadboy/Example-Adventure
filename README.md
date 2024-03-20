@@ -51,4 +51,4 @@ The project is open source. Prepared for a skilled designer who can use the gene
 Of course, you can play the built version at this link: [Example Adventure](https://drive.google.com/file/d/10sv-WuzmfAuNXQx5tBqIm395K75elu31/view?usp=sharing)
 
 > [!IMPORTANT]
-> I created the game on my own for a couple of days for a few hours at a time for skill demonstration purposes. But who knows maybe one day I will develop it more 	:sweat_smile::clown_face:
+> I created the game on my own for a couple of days for a few hours at a time for skill demonstration purposes. But who knows maybe one day I will develop it more
