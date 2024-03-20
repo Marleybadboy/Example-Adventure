@@ -24,4 +24,17 @@ Editable elements in opponents:
 1. strength
 2. speed
 3. skin selection
-4. type of attack - uses the `IEnemyAttack`  interface which allows for easy implementation of attack types of the attractor 
+4. type of attack - uses the `IEnemyAttack`  interface which allows for easy implementation of attack types of the attractor
+5. Deleting already created opponents
+
+<p align="center">
+  <img src="Visual_Readme/Screenshot 2024-03-20 21-19-59.png" alt="Enemy Editor" width="300"/>
+</p>
+
+> [!NOTE]
+> There is a default opponent in the game that cannot be removed
+
+### Save System
+The game uses a simple system of saving gameplay. We can save the gameplay at any time in the pause menu. The gameplay save is in json format and is located in persistentDataPath.
+
+Note that a player can have one save in total. And it holds health and ammunition data also it should be used with caution such fromsoftwer solution.
